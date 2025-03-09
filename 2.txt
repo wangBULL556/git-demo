@@ -1,1 +1,1 @@
-this is a test of the practice of git
+this is a test of git
